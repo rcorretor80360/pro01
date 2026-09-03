@@ -1,0 +1,130 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tribubal Regional Eleitoral da Bahia - Centro de Memória 360°
+
+## Skin
+
+### Button
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = Recepção
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.pressedLabel = Recepção
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = Recepção
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.pressedLabel = Recepção
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = Imagem  Aérea
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = Imagem  Aérea
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = Imagem  Aérea
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = Imagem  Aérea
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.label = Acesso  Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.pressedLabel = Acesso  Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.label = Acesso  Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.pressedLabel = Acesso  Principal
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6.label = Exposição
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6.pressedLabel = Exposição
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6_mobile.label = Exposição
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6_mobile.pressedLabel = Exposição
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;"><I>1ª  Avenida  Centro Administrativo da Bahia, 150 Centro Administrativo da Bahia, Salvador - BA</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;"><I>Contato:  (71)  3373 - 7094</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7.5px;"><I>1ª  Avenida  Centro Administrativo da Bahia, 150 Centro Administrativo da Bahia, Salvador - BA</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7.5px;"><I>Contato:  (71)  3373 - 7094</I></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF.label = Objetos exposição
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_0.label = 28
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_1.label = 29
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_10.label = 38
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_11.label = 39
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_12.label = 40
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_13.label = 41
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_14.label = 42
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_15.label = 43
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_16.label = 44
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_17.label = 45
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_18.label = 46
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_19.label = 47
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_2.label = 30
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_20.label = 48
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_21.label = 49
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_22.label = 50
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_23.label = 51
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_24.label = 52
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_25.label = 53
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_26.label = 54
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_27.label = 55
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_28.label = 56
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_29.label = 57
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_3.label = 31
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_30.label = 58
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_31.label = 59
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_32.label = 60
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_33.label = 61
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_34.label = 62
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_35.label = 63
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_36.label = 64
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_37.label = 65
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_38.label = 66
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_39.label = 67
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_4.label = 32
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_40.label = 68
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_41.label = 69
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_42.label = 70
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_43.label = 71
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_44.label = 72
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_45.label = 73
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_46.label = 74
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_47.label = 75
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_48.label = 76
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_49.label = 77
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_5.label = 33
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_50.label = 78
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_51.label = 79
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_6.label = 34
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_7.label = 35
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_8.label = 36
+album_9632E9E5_9B75_22EA_41E0_6892A797CAFF_9.label = 37
+panorama_00418034_0F90_4BF6_4194_6A72AB0CDB2A.label = Exposição
+panorama_0074F997_0F90_DCB2_418E_09D7A830DC5A.label = Exposição
+panorama_010FE455_0F90_CBB6_4191_A844CB311625.label = Acesso Recepção
+panorama_0154C2C5_0F90_4C97_41A7_CFBECC05F2D4.label = Acesso Principal
+panorama_018F1393_0F90_4CB2_419F_77938D7CC1DE.label = Recepção
+panorama_1D0C9E47_0F91_D792_41A1_1C592108FBF9.label = Exposição
+panorama_1D154844_0F90_3B96_419C_A3B3AD1A4F91.label = Exposição
+panorama_1D31D51E_0F90_55B5_41AD_75783FD63578.label = Exposição
+panorama_1D3E89A6_0F93_DC92_41A8_8FDA80CCD747.label = Exposição
+panorama_1DB71C5E_0F9F_DBB5_41AB_E25B1FE5B95E.label = Exposição
+panorama_1DC89F06_0F90_7592_4195_D0549489B217.label = Exposição
+panorama_1DDCE37B_0F90_4C72_41AE_8A84BD6CC622.label = Exposição
+panorama_1DFC57CA_0F90_749D_41A2_3FAF805698A0.label = Exposição
+panorama_1DFF74A6_0F90_D492_41A0_4D140F97DA60.label = Exposição
+panorama_1E90B63C_0F90_D7F6_41AC_12C5641259F7.label = Exposição
+panorama_1E971BB7_0F91_FCF3_41A1_95691AD473EA.label = Exposição
+panorama_1EBC0EAC_0F90_7496_4182_F7924C8999AD.label = Exposição
+panorama_1F6B31FB_0F90_4C72_4197_C5206D6725F7.label = Exposição
+panorama_9B3A1E8A_9680_48F7_41E0_123A3A63793A.label = 1
+video_B828575A_9BBF_2FDE_41A9_023CBE7267C1.label = urnas
+video_B8974E6D_A858_F29D_41CA_324E605918E7.label = centro_memoria
+
+## Action
+
+### URL
+LinkBehaviour_3864EF68_0FF0_559E_4190_356D5541BAB3.source = https://www.tiktok.com/@tre_ba
+LinkBehaviour_38650F68_0FF0_559E_415C_F662479293D4.source = https://open.spotify.com/show/0QOarDS0INSfrKy5ACpqAi?si=XNYJizsbRu2Gq5oLYdg_yg&nd=1
+LinkBehaviour_38650F72_0FF0_5472_418A_5942A6190BD4.source = https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras
+LinkBehaviour_38652F68_0FF0_559E_41A5_E763A9EDE943.source = https://www.flickr.com/photos/trebahia
+LinkBehaviour_38654F68_0FF0_559E_4197_B49DAD149BF1.source = https://www.youtube.com/tvtreba
+LinkBehaviour_38675F68_0FF0_559E_41A6_B7AE169F417A.source = https://www.instagram.com/trebahia
+LinkBehaviour_38679F68_0FF0_559E_41A3_D4668343615A.source = https://twitter.com/trebahia
+LinkBehaviour_3867EF68_0FF0_559E_419F_B86572E1EAA6.source = https://www.facebook.com/trebahia
+LinkBehaviour_84D21CA6_99E2_33C8_41BA_943DD978AC61.source = https://open.spotify.com/show/0QOarDS0INSfrKy5ACpqAi?si=XNYJizsbRu2Gq5oLYdg_yg&nd=1
+LinkBehaviour_865825B3_99FD_DDC8_41AC_3848D02695D7.source = https://twitter.com/trebahia
+LinkBehaviour_86DDBF4D_99FE_2D5B_41E0_AE3D835C3C94.source = https://www.instagram.com/trebahia
+LinkBehaviour_870FDCFA_99FE_3338_41C5_BDCB7BBC7ACA.source = https://www.youtube.com/tvtreba
+LinkBehaviour_87115B7D_99E2_553B_41C5_E74C1AC47296.source = https://www.facebook.com/trebahia
+LinkBehaviour_8759FEE2_99FE_2F48_41E1_5053637132D7.source = https://www.tiktok.com/@tre_ba
+LinkBehaviour_B365D850_AD93_1D77_41BE_C6EC6BB292E8.source = https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras
+LinkBehaviour_B9B1B223_99FF_D6CF_41C0_8CDDC62E64B8.source = https://www.flickr.com/photos/trebahia
